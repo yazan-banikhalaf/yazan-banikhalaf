@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-streak-stats-puce-three.vercel.app?user=yazan-banikhalaf&theme=whatsapp-light2&border_radius=20" alt="yazan-banikhalaf" />
-[![GitHub Streak](https://github-readme-streak-stats-puce-three.vercel.app?user=yazan-banikhalaf&theme=whatsapp-light2&border_radius=20)](https://git.io/streak-stats)
 
 </div>
