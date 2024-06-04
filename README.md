@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi there, I am Yazan Banikhalaf 👋
 
 <!--
@@ -14,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="center" src="https://github-readme-streak-stats-puce-three.vercel.app?user=yazan-banikhalaf&theme=whatsapp-light2&border_radius=20" alt="yazan-banikhalaf" /></p>
+
+<img src="https://github-readme-streak-stats-puce-three.vercel.app?user=yazan-banikhalaf&theme=whatsapp-light2&border_radius=20" alt="yazan-banikhalaf" />
+
+</div>
