@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Hello World👋</h3>
+<h3>Hello 👋</h3>
 <h3>I am Yazan Banikhalaf</h3>
 <hr></hr>
 
